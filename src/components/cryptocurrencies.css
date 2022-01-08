@@ -1,0 +1,21 @@
+.cryptoCard {
+    max-height: 210px;
+    border-radius: 20px !important;
+    box-shadow: 4px 24px 60px rgba(109, 141, 173, 0.25);
+
+}
+
+.cryptoCard:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+
+.searchBar {
+    border-radius: 20px !important;
+    width: 400px !important;
+}
+
+.search-crypto {
+    /* background-color: green; */
+    margin-left: -4px !important;
+}

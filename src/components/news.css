@@ -1,0 +1,20 @@
+.news-card {
+    height: 100%;
+    min-height: 400px;
+    border-radius: 20px !important;
+    box-shadow: 4px 24px 60px rgba(109, 141, 173, 0.25);
+
+}
+
+.news-card:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+
+.provider-container {
+    padding: 5px 0px;
+}
+
+.datePublished {
+    margin-left: 10px;
+}
